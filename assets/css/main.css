@@ -58,7 +58,7 @@
   .logo {
     font-size: 300%;
     font-weight: 700;
-    color: #16a085;
+    color: #00078b;
     display: block; }
 
   .menu {
@@ -170,7 +170,7 @@
 /* =Main Page *//*************************************************************/
   #about-img {
     border-radius: 13%;
-    max-width: 125px;
+    max-width: 425px;
     margin: auto;
     margin-bottom: 3%;
   }
